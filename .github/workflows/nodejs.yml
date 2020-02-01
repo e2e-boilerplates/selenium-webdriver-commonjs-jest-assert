@@ -1,4 +1,4 @@
-name: selenium-webdriver-commonjs-jest-expect
+name: selenium-webdriver-commonjs-jest-assert
 
 on:
   push:

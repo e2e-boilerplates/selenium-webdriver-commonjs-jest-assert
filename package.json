@@ -1,7 +1,7 @@
 {
-  "name": "selenium-webdriver-commonjs-jest-expect",
+  "name": "selenium-webdriver-commonjs-jest-assert",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using CommonJS, Jest and Expect",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using CommonJS, Jest and Assert",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx jest"

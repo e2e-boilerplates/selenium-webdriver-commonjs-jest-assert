@@ -1,5 +1,6 @@
 const { Builder, By } = require("selenium-webdriver");
 const chrome = require("selenium-webdriver/chrome");
+const { strictEqual } = require("assert");
 
 require("chromedriver");
 
@@ -25,7 +26,7 @@ describe("Sandbox", () => {
     const title = await browser.getTitle();
     const header = await browser.findElement(By.css("h1"));
 
-    expect(title).toEqual("Sandbox");
-    expect(await header.getText()).toEqual("Sandbox");
+    strictEqual(title, "Sandbox");
+    strictEqual(await header.getText(), "Sandbox");
   });
 });
