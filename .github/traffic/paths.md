@@ -1,12 +1,6 @@
 | referrer                                                                          | count | uniques |
 | :-------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/actions                  | 5     | 2       |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/actions/runs/62928963    | 2     | 2       |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/runs/533173004           | 2     | 2       |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert                          | 2     | 1       |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/actions/runs/61169460    | 1     | 1       |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/actions/runs/61904812    | 1     | 1       |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/actions/runs/62945607    | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert                          | 3     | 2       |
 | /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/blob/master/package.json | 1     | 1       |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/pull/18                  | 1     | 1       |
-| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/runs/526512587           | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/pull/26                  | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jest-assert/runs/565949378           | 1     | 1       |
